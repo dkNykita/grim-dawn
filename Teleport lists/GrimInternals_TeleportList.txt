@@ -531,7 +531,6 @@
    Helping Out +(Kasparov),97.2508,9.25179,29.5155,
    Helping Out +(Barnabas),96.3544,6.715,78.8926,
   Kasparov's Experiment +-(Kasparov),97.2508,9.25179,29.5155,
-  Kasparov's Gamble +-(Kasparov),97.2508,9.25179,29.5155,
   Lost Survivor +(NPC),-105.805,1.43421,-211.038,
    Lost Survivor -(NPC),42.4684,9.2291,51.1214,
   Securing Burrwitch +-(Bourbon inside),-105.805,1.43421,-211.038,
@@ -744,7 +743,7 @@
   Prove Yourself to the Cause
   The Prophet's Call
   The Sacred Ashes
- =========IV ACT===============,-3777.94,119.00,66.69,
+ !=========IV ACT===============,-3777.94,119.00,66.69,
   A Forgotten Evil +(Creed HS),-2141.56,27.4756,57.2046,
    A Forgotten Evil -(Creed FI),-4833.26,39,-501.58,
   Betrayal at Fort Ikon +-(Creed FI),-4833.26,39,-501.58,
@@ -753,8 +752,8 @@
   Black Heart of the Void +-(Anasteria),-5638.63,-0.0799999,275.508,
    Black Heart of the Void - (Galar'Bargok) 1,-1597.04,8.99996,3563.77,
    Black Heart of the Void - (Galar'Bargok) 2,-1569.46,1.4697,3415.28,
-  !=Cult Activity +-(Reave),-4843.24,39,-483.113,
-   Cult Activity - (Cultists somewhere here),-5403,-0.13,1167.76,
+  !Cult Activity +-(Reave),-4843.24,39,-483.113,
+   !Cult Activity - (Cultists somewhere here),-5403,-0.13,1167.76,
   Legion Retribution +(Moira),-4845.94,39,-499.495,
    Legion Retribution - (Herald of Destruction),-1866.55,5.01375,630.574,
   Power of our Enemies +-(Anasteria),-5638.63,-0.0799999,275.508,
@@ -780,20 +779,101 @@
   Wrath of the Beast +-(Anasteria),-5638.63,-0.0799999,275.508,
    Wrath of the Beast - (Kalis Ka the Bonehunter),-214.23,21.44,-1656.11,
  =========V ACT================,-792.41,4.18,-1545.41,
-  A Familiar Witch
-  A Jewel in the Mud
-  A Witch's Bargain
-  Along the Void's Edge
-  Cleanse the Corruption
+  A Familiar Witch +(Rallia),-749.86,0.559489,-2629.05,
+  A Jewel in the Mud +(Scorv house),-1570.1,10.6797,-3568.48,
+   A Jewel in the Mud +(Tyvald),-1531.32,6.41917,-3575.25,
+   A Jewel in the Mud +(Jordyth),-1537.9,9.48284,-3602.19,
+   A Jewel in the Mud - Fetish,-1570.1,10.6797,-3568.48,
+   A Jewel in the Mud -(Garradia),-814.724,5.76559,-2628.75,
+  A Witch's Bargain +-(Garradia),-814.724,5.76559,-2628.75,
+   A Witch's Bargain - (Scorv house),-1570.1,10.6797,-3568.48,
+   A Witch's Bargain - Fetish,-1570.1,10.6797,-3568.48,
+  Along the Void's Edge +(Ulgrim VE),-1693.68,-13.348,-5115.55,
+   Along the Void's Edge -(Ulgrim LW),-2015.14,57.9865,-3757.17,
+  Cleanse the Corruption +-(Avatar of Mogdrogen),-456.49,0.926847,-3018.72,
+   Cleanse the Corruption - (Gargabol),739.267,-10.2689,-3673.28,
   Desperate Measures +(Creed FI),-4833.26,39,-501.58,
-  Devil's Crossing Needs You
-  Into the Jaws of Madness
-  Lost Father +(Amala),-4829.45,39,-503.127,
-  Return to Inquisitor Creed
-  The Gloomwald Stash
-  The Wraith of Ugdenbog
+   Desperate Measures - (Carraxus),-1907.22,-2.04654,-1937.04,
+   Desperate Measures -(Garradia),-814.724,5.76559,-2628.75,
+  Devil's Crossing Needs You - (Creed FI),-4833.26,39,-501.58,
+   Devil's Crossing Needs You - Devil's Crossing,85.31,7.52,45.96,
+  Into the Jaws of Madness +(Garradia),-814.724,5.76559,-2628.75,
+   Into the Jaws of Madness - Altar,-1787.06,47.4073,-3667.13,
+   Into the Jaws of Madness -(Ulgrim VE),-1693.68,-13.348,-5115.55,
+  Lost Father +(Amala FI),-4829.45,39,-503.127,
+   Lost Father - (Garett),-1076.23,20.03,-2097,
+   Lost Father -(Amala DC),44.6834,9.3882,50.5589,
+  Return to Inquisitor Creed +(Creed FI),-4833.26,39,-501.58,
+  The Gloomwald Stash +Quest,-866.023,2.18125,-1985.2,
+   The Gloomwald Stash -Stash,-1167.98,16.919,-2027.18,
+  The Wraith of Ugdenbog +-(Ugdall),-1905.12,2.55086,-2516.04,
+ !=========Coven of Ugdenbog====,-1553.27,6.24,-3553.91,
+  Allure of the Wendigo +-(Malostria),-789.623,0.582378,-2655.58,
+   Allure of the Wendigo - (Janaxia),-2553.13,0.967098,-2530.61,
+  Future Sisters +-(Syndia),-778.27,0.843217,-2663.58,
+   Future Sisters - (Leora),-1350.44,1.82601,-3320.95,
+  !Power in the Circles +-(Malostria),-789.623,0.582378,-2655.58,
+  Pruning The Weeds +-(Garradia),-814.724,5.76559,-2628.75,
+   Pruning The Weeds  - (Sylvarria),-2454.30,-7.97,-2232.45,
+  The Coven's Walls +-(Garradia),-814.724,5.76559,-2628.75,
+  !The Final Seal +-(Malostria),-789.623,0.582378,-2655.58,
+ !=========Barrowholm===========,-814.19,0.57,-2597.53,
+  !Cast Off the Flesh +(Scorv ritual),-1613.09,9.82,-3593.76,
+  Meddling Witch +(Scorv house),-1570.1,10.6797,-3568.48,
+   Meddling Witch - (Larria),-2225.58,-3.84871,-2507.19,
+   Meddling Witch -(Scorv ritual),-1613.09,9.82,-3593.76,
+  !Mine Pests +-(Tyvald),-1531.32,6.41917,-3575.25,
+   !Mine Pests - (Pitcreepers somewhere here),-2772.61,17.6089,-2873.69,
+  !The Feast +(Scorv ritual),-1613.09,9.82,-3593.76,
+  Travelers Beware +-(Jordyth),-1537.9,9.48284,-3602.19,
+   Travelers Beware - (Thomas),-1489.68,11.9346,-3824.56,
+   Travelers Beware - (Maurene),-1222.17,0.0764132,-3623.21,
+  Wendigo Wards +-(Tyvald),-1531.32,6.41917,-3575.25,
+   Wendigo Wards - Ward 1,-1655.42,-0.0363164,-3718.92,
+   Wendigo Wards - Ward 2,-1422.89,0.0856121,-3600.91,
+   Wendigo Wards - Ward 3,-1505.9,0.205495,-3727.75,
+ =========VI ACT===============,-2021.82,58.06,-3756.54,
+  A Sister's Love
+  Arming the Resistance +(Wilfor SD),-2758.36,28.7902,-4042.95,
+  Bring Out Your Dead +-(Wilfor MS),869.941,7.47592,-4937.88,
+   Bring Out Your Dead - Wagon 1,-2836.7,15.4988,-4281.11,
+   Bring Out Your Dead - Wagon 2,-2757.4,19,-4401.24,
+   Bring Out Your Dead - Wagon 3,-2784.1,18.9469,-4281.32,
+  Burn the Womb
+  Can't Leave Them
+  Family Matters
+  For the People +(Creed SH),895.213,7.44,-5008.78,
+   For the People - Steelcap Rift,-2747.4,28.8032,-4050.25,
+   For the People -(Creed SD),-2767.28,28.79,-4052.79,
+  Hargate's Mysteries
+  Kasparov's Gamble
+  Liberate the Liberators
+  Mad Ramblings +(Ivonda SD),-2721.07,39.6816,-4051.61,
+  Malmouth the Fallen City +(Ulgrim LW),-2015.14,57.9865,-3757.17
+   Malmouth the Fallen City - (Ulgrim MO),-2569.19,19.0242,-4361.19,
+   Malmouth the Fallen City - (Wilfor MS),869.941,7.47592,-4937.88,
+   Malmouth the Fallen City -(Ulgrim MS),867.256,7.42513,-4934.02,
+  Rictor's Thanks
+  Rise of the Insurgence
+  Savior +(Nicoh),-2965.37,33.8052,-4189.23,
+   Savior -(Nicoh SH),890.621,7.44,-5034.85,
+  Someone on the Inside +(Ulgrim MS),867.256,7.42513,-4934.02,
+   Someone on the Inside - (Bollag),-2655.4,19.103,-4338.06,
+   Someone on the Inside - (Creed MO),-2610.44,19.003,-4355.78,
+   Someone on the Inside -(Creed SH),895.213,7.44,-5008.78,
+  Stoking the Flames +(Korinia),-2767.28,28.79,-4052.79,
+  Survivors
+  The Blackiron Docks
+  The Bloodsworn Damned
+  The Living Factory
+  The Other You
+  Tip of the Spear +(Creed SD),-2767.28,28.79,-4052.79,
 =========MOD================,85.31,7.52,45.96,
  Eternal Mod +-(Luna),750.693,0.189005,131.458,
   Eternal (Grimarillion) - Arena,760.636,0,151.181,
 =========TEMP================,85.31,7.52,45.96,
+Mal Sewers (Markiv)?,1108.92,8.31,-4775.23,
 =========TEMP ENTRIES================,85.31,7.52,45.96,
+
+
+
