@@ -897,37 +897,53 @@
    Tip of the Spear - Crown Hill Rift,-3133.06,28.7294,-4222.14,
    Tip of the Spear -(Ulgrim CH),-3133.06,28.7294,-4222.14,
  =========VII ACT==============,-3428.59,43.34,6978.83,
-  A Mother's Gift
+  A Mother's Gift +(Uroboruuk PoA),-4460.73,48.43,4283.2,
   A Stranger Beckons
-  Conquering the Shattered Realm
-  Deeper in Debt
-  Entering the Shattered Realm
-  Exploring the Shattered Realm
+  !Conquering the Shattered Realm
+  Deeper in Debt +-(Riggs CotT),-3476.18,49.1305,6965.47,
+  Entering the Shattered Realm +(Mazaan CotT),-3422.35,43.2237,6980.34,
+  !Exploring the Shattered Realm
   Fate of the Bloodsworn
-  Good Aspirants are Difficult to Find
+  Good Aspirants are Difficult to Find +-(Keisen CotT),-3428.34,51.6236,6909.7,
+   Good Aspirants are Difficult to Find - (Elita),-3689.26,20.4279,6257.53,
   Kymon's Deserters
   Loyalty to the Three +(The Emissary CotT),-3392.98,54.1736,6952.51,
    Loyalty to the Three -(Byscilla - Bysmiel),-3476.44,49.1949,7006.44,
    Loyalty to the Three -(Draellus - Dreeg),-3491.78,48.989,6955.23,
    Loyalty to the Three -(Raiken - Solael),-3436.34,51.6392,6921.08,
-  Mastering the Shattered Realm
-  Now You Owe Me
-  Paying Debts
-  Preemptive Strike
+  !Mastering the Shattered Realm
+  Now You Owe Me +-(Riggs CotT),-3476.18,49.1305,6965.47,
+  Paying Debts +-(Riggs CotT),-3476.18,49.1305,6965.47,
+  Preemptive Strike +-(Vorak VotT),-3520.82,17.6038,4828.99,
+   Preemptive Strike - (Conduit) 1,-3285.65,-2.70628,4037.27,
+   Preemptive Strike - (Conduit) 2,-3288.69,-2.7119,3965.36,
+   Preemptive Strike - (Conduit) 3,-3248.08,-2.8629,3957.58,
+   Preemptive Strike - (Duskreaper),-3259.49,-3.2498,3992.91,
   The Eldritch Trials +-(The Emissary CotT),-3392.98,54.1736,6952.51,
    The Eldritch Trials - (Kanatha),-3428.33,43.2353,6985.02,
   The Emissary +(The Emissary DC),83.269,7.21209,81.5512,
    The Emissary -(The Emissary CotT),-3392.98,54.1736,6952.51,
-  The Forgotten God
+  The Forgotten God +(Uroboruuk PoA),-4460.73,48.43,4283.2,
+   The Forgotten God - Eldrich Gate,-5945.96,12.01,3813.34,
+   The Forgotten God - (Korvaak),-6548.8,6.7744,3601.4,
+   The Forgotten God -(The Emissary CotT),-3392.98,54.1736,6952.51,
   The Future is Madness
   The Maw of Enaht
-  The Messenger
-  The Tome of Eanatum
+  The Messenger +-(Seer Laurna VotT),-3502.96,17.3143,4827.26,
+  The Tome of Eanatum +-(Kargon CotT),-3456.93,41.7238,6970.07,
+   The Tome of Eanatum - Tome,-3810.05,4.18,5347.97,
   The Word of Rahn
-  Tomb Brothers
-  Tomb of the Eldritch Sun
-  Worthy of Merit
-  Worthy of Solael
+  Tomb Brothers +-(Anorak CotT),-3465.5,41.8691,6922.54,
+   Tomb Brothers - (Aaral),-4159.06,9,5672.05,
+   Tomb Brothers - (Anderan),-3524.39,-8.8,5631.12,
+   Tomb Brothers - (Tirgan),-3227.78,6.28295,5589.69,
+  Tomb of the Eldritch Sun +(Sagon VotT),-3512.81,17.8045,4837.58,
+   Tomb of the Eldritch Sun - (Dravis PoA),-4460.73,48.43,4283.2,
+   Tomb of the Eldritch Sun -(Uroboruuk PoA),-4460.73,48.43,4283.2,
+  Worthy of Merit +(Marr CotT),-3431.38,41.6397,6957.85,
+   Worthy of Merit -(Asgra CotT),-3422.97,41.3552,6956.2,
+  Worthy of Solael +-(Keisen CotT),-3428.34,51.6236,6909.7,
+   Worthy of Solael - (Attrin),-3452.74,41.3804,6931.07,
  !=========Bysmiel==============,-3428.59,43.34,6978.83,
   Blood of the Korvan Guardians
   Byscilla's Plan
@@ -939,13 +955,21 @@
   Eldritch Corruption
   In Service of Dreeg
  =========Solael==============,-3428.59,43.34,6978.83,
-  In Service of Solael +(Sagon),-3438.9,51.8191,6915.06,
-  The Eye of Ekur +-(Raiken - Solael),-3436.34,51.6392,6921.08,
-  No Room for Weakness +-(Raiken - Solael),-3436.34,51.6392,6921.08,
-  The Heart of Onarix
+  In Service of Solael +(Sagon CotT),-3438.9,51.8191,6915.06,
+   In Service of Solael -(Sagon VotT),-3512.81,17.8045,4837.58,
+  The Eye of Ekur +-(Raiken - Solael CotT),-3436.34,51.6392,6921.08,
+   The Eye of Ekur - (Ramzul),-2765.79,6.16,6115.6,
+  No Room for Weakness +-(Raiken - Solael CotT),-3436.34,51.6392,6921.08,
+  The Heart of Onarix +-(Sagon VotT),-3512.81,17.8045,4837.58,
+   The Heart of Onarix - Altar,-3497.02,42.9999,4660.95,
+   The Heart of Onarix - (Onarix),-2253.97,10.3275,5481.71,
 =========MOD================,85.31,7.52,45.96,
  Eternal Mod +-(Luna),750.693,0.189005,131.458,
   Eternal (Grimarillion) - Arena,760.636,0,151.181,
 =========TEMP================,85.31,7.52,45.96,
 Mal Sewers (Markiv)?,1108.92,8.31,-4775.23,
+Forgotten Passage VotC,-4139.87,31.466,4454.03,
+Mysterious Statue 1 RoKC,-4462.16,30.8,4432.08,
+Mysterious Statue 2 RoKC,-4530.35,31.0975,4491.47,
+Mysterious Statue 3 RoKC,-4571.01,31.1806,4398.25,
 =========TEMP ENTRIES================,85.31,7.52,45.96,
