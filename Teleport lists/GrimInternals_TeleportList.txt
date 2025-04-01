@@ -896,17 +896,18 @@
    Tip of the Spear - Gate,-3126.91,28.72,-4174.6,
    Tip of the Spear - Crown Hill Rift,-3133.06,28.7294,-4222.14,
    Tip of the Spear -(Ulgrim CH),-3133.06,28.7294,-4222.14,
- =========VII ACT==============,-3428.59,43.34,6978.83,
+ !=========VII ACT==============,-3428.59,43.34,6978.83,
   A Mother's Gift +(Uroboruuk PoA),-4460.73,48.43,4283.2,
-  A Stranger Beckons
+   A Mother's Gift -(Daila),-4345.16,45.2067,4577.24,
+  A Stranger Beckons -(The Emissary CotT),-3392.98,54.1736,6952.51,
   !Conquering the Shattered Realm
   Deeper in Debt +-(Riggs CotT),-3476.18,49.1305,6965.47,
   Entering the Shattered Realm +(Mazaan CotT),-3422.35,43.2237,6980.34,
   !Exploring the Shattered Realm
-  Fate of the Bloodsworn
+  Fate of the Bloodsworn +-Quest,-2708.6,0.0999999,4533.28,
   Good Aspirants are Difficult to Find +-(Keisen CotT),-3428.34,51.6236,6909.7,
    Good Aspirants are Difficult to Find - (Elita),-3689.26,20.4279,6257.53,
-  Kymon's Deserters
+  !Kymon's Deserters
   Loyalty to the Three +(The Emissary CotT),-3392.98,54.1736,6952.51,
    Loyalty to the Three -(Byscilla - Bysmiel),-3476.44,49.1949,7006.44,
    Loyalty to the Three -(Draellus - Dreeg),-3491.78,48.989,6955.23,
@@ -914,6 +915,12 @@
   !Mastering the Shattered Realm
   Now You Owe Me +-(Riggs CotT),-3476.18,49.1305,6965.47,
   Paying Debts +-(Riggs CotT),-3476.18,49.1305,6965.47,
+   Paying Debts - (Gurblix),-1781.94,-12.8281,5852.64,
+   Paying Debts - (Jarinthor),-5647,14.01,6529.59,
+   Paying Debts - (Hallanx),-2806.64,-9.73089,4227.48,
+   Paying Debts - Forgotten Passage,-4140.35,31.3412,4451.66,
+   Paying Debts - (Morgoneth),-5539.59,-39.2481,3026.93,
+   Paying Debts - Iris,-5598.59,-36.686,3033.87,
   Preemptive Strike +-(Vorak VotT),-3520.82,17.6038,4828.99,
    Preemptive Strike - (Conduit) 1,-3285.65,-2.70628,4037.27,
    Preemptive Strike - (Conduit) 2,-3288.69,-2.7119,3965.36,
@@ -927,12 +934,17 @@
    The Forgotten God - Eldrich Gate,-5945.96,12.01,3813.34,
    The Forgotten God - (Korvaak),-6548.8,6.7744,3601.4,
    The Forgotten God -(The Emissary CotT),-3392.98,54.1736,6952.51,
-  The Future is Madness
-  The Maw of Enaht
+  !The Future is Madness
+  The Maw of Enaht +Quest,-4102.07,8.20657,5799.67,
+   The Maw of Enaht -(Carmac),-3468.76,49.0905,6985.61,
   The Messenger +-(Seer Laurna VotT),-3502.96,17.3143,4827.26,
+    The Messenger - (Okaloth),-5267.75,-3.89198,4696.36,
   The Tome of Eanatum +-(Kargon CotT),-3456.93,41.7238,6970.07,
    The Tome of Eanatum - Tome,-3810.05,4.18,5347.97,
-  The Word of Rahn
+  The Word of Rahn +-(Raiken - Solael CotT),-3436.34,51.6392,6921.08,
+   The Word of Rahn Statue 1 RoKC,-4571.01,31.1806,4398.25,
+   The Word of Rahn Statue 2 RoKC,-4530.35,31.0975,4491.47,
+   The Word of Rahn Statue 3 RoKC,-4462.16,30.8,4432.08,
   Tomb Brothers +-(Anorak CotT),-3465.5,41.8691,6922.54,
    Tomb Brothers - (Aaral),-4159.06,9,5672.05,
    Tomb Brothers - (Anderan),-3524.39,-8.8,5631.12,
@@ -969,7 +981,4 @@
 =========TEMP================,85.31,7.52,45.96,
 Mal Sewers (Markiv)?,1108.92,8.31,-4775.23,
 Forgotten Passage VotC,-4139.87,31.466,4454.03,
-Mysterious Statue 1 RoKC,-4462.16,30.8,4432.08,
-Mysterious Statue 2 RoKC,-4530.35,31.0975,4491.47,
-Mysterious Statue 3 RoKC,-4571.01,31.1806,4398.25,
 =========TEMP ENTRIES================,85.31,7.52,45.96,
